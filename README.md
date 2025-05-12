@@ -15,7 +15,8 @@ Este é um script simples em Python para gerar senhas seguras e aleatórias, uti
 2. Execute o script com Python 3:
 
 ```bash
-python GeradorSebga.py
+python GeradorSenha.py
+
 Informe a quantidade de caracteres desejados.
 
 Digite S ou s para gerar uma nova senha, ou qualquer outra tecla para sair.
